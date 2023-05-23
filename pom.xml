@@ -4,7 +4,7 @@
   <groupId>Demo</groupId>
   <artifactId>Sample</artifactId>
   <packaging>war</packaging>
-  <version>2.2ersion>
+  <version>2.2</version>
   <name>Sample Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
